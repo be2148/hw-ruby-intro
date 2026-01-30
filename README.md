@@ -3,8 +3,7 @@
 This 3-part homework gives some basic practice in Ruby as well as
 getting you accustomed to making testing a regular part of your workflow.
 
-**NOTE: Fork the repository for this assignment to your GitHub workspace/account, then, on your local machine, clone
-your forked repository and work there. Be sure to keep the forked repo private.**
+**NOTE: Before you begin, we need to "copy" this repo from this account to your GitHub account. When looking at the repo in GitHub, use the "Use this template" button, and select the "Create a new repository" option. In the window that appears, ensure that the resulting copied repo will be in your account, and you should use the same name as this repo: `hw-ruby-intro`. Provide a description if you like, but select the visibility to be *Private*.  Then, on your local machine, clone your repo and do your work there on your local machine.** 
 
 ## Learning Goals
 
